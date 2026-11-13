@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "PREGUNTADO - FUTBOL\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "PREGUNTADO - FUTBOL\\lib\\mysql-connector-j-8.0.33.jar",
+        "PREGUNTADO - FUTBOL\\lib\\flatlaf-3.7.2.jar"
+    ]
+}
